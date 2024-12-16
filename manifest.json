@@ -1,0 +1,20 @@
+{
+  "name": "repsol-widget-geocoding",
+  "label": "Geocoding",
+  "type": "widget",
+  "version": "1.16.0",
+  "exbVersion": "1.16.0",
+  "author": "Nexus Geographics",
+  "description": "Geocoding widget tool.",
+  "copyright": "Nexus Geographics",
+  "properties": {},
+  "translatedLocales": [
+    "en",
+    "es",
+    "ca"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
