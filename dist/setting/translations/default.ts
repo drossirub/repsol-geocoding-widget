@@ -24,4 +24,10 @@ export default {
   label_fecha_fin: "Fecha Fin",
   label_log_error: "LOG_ERROR",
 
+  // Refresh options
+  refresh_label: "Opciones de refresco de valores",
+  refresh_button_label: "Botón de refrescar valores",
+  refresh_interval_button_label: "Activar refresco de valores automático",
+  refresh_interval_time_label: "Tiempo de refresco automático (segundos)",
+
 };
