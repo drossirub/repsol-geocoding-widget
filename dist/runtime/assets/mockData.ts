@@ -43,7 +43,7 @@ const Values_Ok: GeocodeResponse = {
 }
 const Values_Er: GeocodeResponse = {
   "success": false,
-  "errorCode": 8,
+  "codigo": 8,
   "message": "Error al recopilar datos de la base de datos."
 }
 
@@ -60,7 +60,7 @@ const Descargar_Ok: GeocodeResponse = {
 
 const Descargar_Er: GeocodeResponse = {
   "success": false,
-  "errorCode": 7,
+  "codigo": 7,
   "message": "El fichero no está en un estado que permita su descarga."
 }
 
@@ -71,7 +71,7 @@ const Borrar_Ok: GeocodeResponse = {
 
 const Borrar_Er: GeocodeResponse = {
   "success": false,
-  "errorCode": 13,
+  "codigo": 13,
   "message": "El registro no pudo ser eliminado. Parámetro de entrada no válido."
 }
 
@@ -82,7 +82,7 @@ const Update_Ok: GeocodeResponse = {
 
 const Update_Er: GeocodeResponse = {
   "success": false,
-  "errorCode": 4,
+  "codigo": 4,
   "message": "Error al insertar los datos en la tabla para procesos."
 }
 

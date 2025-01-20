@@ -22,4 +22,16 @@ export default {
     alert_file_not_accepted: "Archivo no aceptado o excede {maxFileSize} MB.",
     text_selected_files: "Archivos seleccionados:",
     text_file_details: "{fileName} - {fileSize} MB",
+
+    // Geocoding States
+    gc_status_pending: "Pendiente",
+    gc_status_inProgress: "En curso",
+    gc_status_completed: "Finalizado",
+    gc_status_expired: "Caducado",
+    gc_status_error: "Erróneo",
+
+    // Geocoding Types
+    gc_type_direct: "Directa",
+    gc_type_reverse: "Inversa",
+
 }
