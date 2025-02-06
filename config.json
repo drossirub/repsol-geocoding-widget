@@ -1,1 +1,17 @@
-{}
+{
+  "GeocodeAPI": {
+    "Values": "/GeocodePros/Values",
+    "Upload": "/GeocodePros/Upload",
+    "Descargar": "/GeocodePros/Descargar",
+    "Borrar": "/GeocodePros/Borrar",
+    "GetMap": "/GeocodePros/GetMap"
+  },
+  "gridConfig": {
+    "rowsPerPage": 6
+  },
+  "refresh": {
+    "button": true,
+    "doInterval": false,
+    "time": 0.5
+  }
+}
